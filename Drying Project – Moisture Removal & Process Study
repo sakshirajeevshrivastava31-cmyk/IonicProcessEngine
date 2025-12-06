@@ -1,0 +1,85 @@
+Problem I Took On
+
+Goal: Study how to remove moisture from a material efficiently.
+
+Focus: Drying kinetics, energy requirements, and process behavior.
+
+Limited real data, so this is more of a first-cut, educational simulation/project.
+
+⭐ 2. What I Wanted to Learn
+
+How moisture content changes over time during drying.
+
+How temperature, airflow, and surface area affect drying rate.
+
+How to estimate energy consumption for drying.
+
+Understand practical challenges in designing drying systems.
+
+⭐ 3. How I Approached It
+
+Chose a sample material with known moisture content.
+
+Simulated drying process using basic equations & assumptions.
+
+Calculated:
+
+Drying rate
+
+Moisture removal over time
+
+Energy required
+
+Tested different conditions: temperature, air velocity, and material thickness.
+
+⭐ 4. What I Learned / Solved
+
+Drying rate depends heavily on temperature and airflow.
+
+Surface area and thickness affect how fast moisture leaves the material.
+
+Could plot moisture content vs time curves to visualize drying behavior.
+
+Learned rough energy requirement estimates for practical design.
+
+Created a simplified process diagram showing airflow, heater, and material flow.
+
+⭐ 5. Experiments / Tweaks I Tried
+
+Increased temperature → faster drying but higher energy.
+
+Increased airflow → improved drying uniformity.
+
+Changed material thickness → showed how thicker layers slow moisture removal.
+
+Observed how small adjustments can significantly change drying time.
+
+⭐ 6. Results (High-Level Impressions)
+
+Produced drying curves for multiple conditions.
+
+Estimated energy consumption for basic dryer design.
+
+Created a simple PFD/flow diagram of the drying setup.
+
+Gained hands-on understanding of drying behavior and process sensitivity.
+
+⭐ 7. Status of Design
+
+⚠️ Rudimentary / educational project — not ready for industrial use.
+
+Provides:
+
+Insight into drying kinetics
+
+Basic energy estimation
+
+Understanding of airflow and temperature effects
+
+Needs:
+
+Detailed experimental data
+
+Advanced simulation for industrial-scale design
+
+Safety & operational considerations
