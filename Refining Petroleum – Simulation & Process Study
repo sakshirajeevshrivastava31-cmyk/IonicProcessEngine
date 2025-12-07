@@ -1,85 +1,56 @@
 What I Took On
-
 Took a crack at simulating crude separation — think: gasoline, diesel, kerosene, and heavy oils.
-
 Goal: understand how a refinery actually splits crude into fractions.
-
 Data was sparse, so it’s more of a learning playground than a “ready-for-plant” design.
 
-⭐ 2. What I Wanted to Learn
-
+--> What was to be Learned
 How temperature, pressure, and column design affect outputs.
-
 How fraction yields change with operating conditions.
-
-How to use a simulation tool (Aspen Plus/others) to model refining units.
+How to use a simulation tool (Aspen Plus) to model refining units.
 
 Basically, get my hands dirty without breaking a refinery 😅.
 
-⭐ 3. How I Went About It
-
+--> How I Went About It
 Set up a simple crude feed (approximate composition).
-
 Modeled an atmospheric distillation column as the first step.
 
 Defined key inputs:
-
 Feed flow & temperature
-
 Number of stages
-
 Reflux ratio
-
 Condenser & reboiler setup
 
 Ran simulations, observed outputs, and tweaked variables to see what happens.
 
-⭐ 4. What I Figured Out
-
+--> What was Figured Out
 Could separate crude into approximate fractions (yay!)
-
 Learned how sensitive yields are to reflux, temperature, and stage numbers.
-
 Generated a first-cut PFD with main streams and product fractions.
-
 Got a feeling for energy requirements and column behavior.
 
-⭐ 5. Experiments & Tweaks I Did
-
+---> Experiments Tweaks 
 Increased/decreased reflux → watched purity vs energy trade-off.
-
-Adjusted number of trays → separation improved (some “aha!” moments 😄).
-
+Adjusted number of trays → separation improved (me dancinnnnnng😄).
 Played with cut points to see how fraction yields change.
 
 Tweaked feed stage positions → saw differences in fraction separation.
 
-⭐ 6. Results (First Impressions)
-
+---> Results (First Impressions)
 Fraction yields looked reasonable for a preliminary study.
-
 Energy estimates for condenser & reboiler were not too crazy.
-
 Created stream summaries and material balance sheets.
 
 Learned how small changes can make big differences in product composition.
 
-⭐ 7. Status of Design
-
-⚠️ This is a rudimentary / educational project — not ready for real refinery use.
+---> Status of Design
+This is a rudimentary / educational project — not ready for real refinery use.
 
 Gives:
-
 Hands-on understanding of crude fractionation
-
 Insight into column operation & energy needs
-
 First step for more detailed refinery design
 
 Needs:
-
 Real crude data & properties
-
 Detailed thermodynamic modelling
-
 Safety, controls, and operational validation
