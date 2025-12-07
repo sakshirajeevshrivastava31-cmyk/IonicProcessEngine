@@ -1,81 +1,53 @@
-Problem I Took On
-
+Problem Took On
 Goal: Understand how fluids move through pipes and systems.
-
 Focus: Pressure drops, flow rate, and behavior in simple piping setups.
 
 Limited data, so this was more of a “play around and learn” project than a real plant-scale analysis.
 
-⭐ 2. What I Wanted to Learn
-
+---> What we wanted to learn
 How to calculate pressure drop in pipes using different methods.
-
 How pipe diameter, length, and roughness affect flow.
-
 Laminar vs turbulent flow behaviour.
-
 How to apply theoretical equations to practical examples.
 
-⭐ 3. How I Approached It
-
+---> How was it Approached
 Took basic pipe networks with known fluid properties.
-
 Calculated velocity, Reynolds number, and flow type.
-
 Applied Darcy-Weisbach equation for pressure drop.
-
 Compared calculated vs observed/expected trends.
 
 Adjusted parameters like pipe diameter, length, and fluid velocity to see their effect.
 
-⭐ 4. What I Learned / Solved
-
+---> What was Learned / Solved
 Pressure drop increases with longer pipes or smaller diameter.
-
 Flow regime changes when velocity or diameter changes — laminar vs turbulent.
-
 Friction factor calculation is tricky but fun once you get it.
-
 Could predict flow behavior reasonably well using simple models.
-
 Created diagrams showing pressure drop vs flow rate trends.
 
-⭐ 5. Experiments / Tweaks I Tried
-
+---> Experiments ;) Tweaks Tried
 Tested different pipe materials to see effect on roughness.
-
 Changed fluid viscosity to simulate different liquids.
-
 Adjusted flow rates to see impact on velocity and pressure drop.
-
 Learned how small changes can make big differences in results.
 
-⭐ 6. Results (High-Level Impressions)
-
+---> Results
 Got clear pressure vs flow graphs for different scenarios.
-
 Confirmed how pipe diameter & length dominate pressure drop.
-
 Created a visual flow summary for each scenario.
 
 Learned the importance of calculations before designing a real system.
 
-⭐ 7. Status of Design
+---> Status of Design
 
-⚠️ Rudimentary / educational project — not for real plant use.
+ Rudimentary / educational project — not for real plant use.
 
 Gives:
-
 Hands-on understanding of fluid mechanics principles
-
 Insight into piping design considerations
-
 First step towards advanced fluid system design
 
 Needs:
-
 More complex networks
-
 Real fluid data and conditions
-
 Detailed validation
